@@ -1,4 +1,4 @@
-A git repo. for the work on synchronous population bursting as presented on UK Neural Computation 2019
+### Work on synchronous Izhikevich spiking models as presented on UK Neural Computation 2019
 
 Playbook demonstrating notebook usage: https://github.com/williampeer/Izhikevich_network_modelling/blob/master/playbook.ipynb
 
